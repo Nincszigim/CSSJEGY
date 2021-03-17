@@ -6,4 +6,15 @@ body{
 
 table{
     width: 980px;
+    border-spacing: 0px;
+    background-color: #509050=RGB;
+}
+
+tr, th{
+    margin: 0px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
 }
