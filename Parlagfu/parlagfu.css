@@ -18,3 +18,15 @@ tr, th{
     margin-left: auto;
     margin-right: auto;
 }
+
+a{
+    color: #999999=RGB;
+}
+
+#masodik{
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0px;
+    background-color: white;
+    border-spacing: 1px;
+}
